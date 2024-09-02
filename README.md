@@ -8,4 +8,5 @@ i was bored so dont use it for getting bitcoin
 to edit just get visual studio code or notepad for
 help you can dm me on discord user is
 "real_lokerz" i can tell you how to change the script
-so yeah and its open source
+so yeah and its open source and it adds itself
+to startup
